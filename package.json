@@ -4,14 +4,14 @@
   "description": "This is the repository for the code from the blog post \"Create a Github Explorer Using Vue.js.\"",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/searsaw/vuejs-github-explorer-blog.git"
+    "url": "git+https://github.com/arronf2e/github-file-explorer-vue-"
   },
-  "author": "Alex Sears",
+  "author": "Arron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/searsaw/vuejs-github-explorer-blog/issues"
+    "url": "https://github.com/arronf2e/github-file-explorer-vue-/issues"
   },
-  "homepage": "https://github.com/searsaw/vuejs-github-explorer-blog#readme",
+  "homepage": "https://github.com/arronf2e/github-file-explorer-vue-#readme",
   "dependencies": {
     "bootstrap": "^3.3.5",
     "vue": "^1.0.0",
